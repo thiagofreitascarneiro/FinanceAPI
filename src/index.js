@@ -73,7 +73,7 @@ app.post('/deposit', verifyIfExistsAccountCPF, (request, response) => {
 
     customer.statement.push(statementOperation);
 
-    return response.status(201).send()
+    return response.status(201).send();
 })
 
 app.listen(3333);
