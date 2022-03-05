@@ -1,4 +1,4 @@
-
+![Skills](https://img.shields.io/badge/NodeJS-43853D?style=for-the-badge&logo=node.js&logoColor=white)
 ### Requisitos
 
 - [x] Deve ser possível criar uma conta
